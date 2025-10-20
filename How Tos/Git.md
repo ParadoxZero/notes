@@ -15,3 +15,10 @@ git diff user/sidhs/mybranch origin/user/sidhs/mybranch
 ```
 git config --global --unset credential.helper
 ```
+
+# Untrack files
+
+```
+git rm --cached -r <path>
+```
+
