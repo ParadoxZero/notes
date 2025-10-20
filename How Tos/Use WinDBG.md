@@ -61,8 +61,8 @@ ad /q ${/v:NewImageName}
 
 bu nt!PspInsertProcess "as /ma ${/v:NewImageName} @@c++(NewProcess->ImageFileName);.block {.echo Creating process: NewImageName;.if ($spat(\"${NewImageName}\",\"ppishell.exe\") == 0) {gc} .else { }}"
 
-kd> dv`
-  NewProcess = 0xffff9e89`111d2080
+kd> dv
+   NewProcess = 0xffff9e89`111d2080
 
 2: kd> .process /p /r 0xffff9e89`111d2080
 
