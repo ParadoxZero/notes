@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "3b662880f968212c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b952187401e2e91b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "946e4dd14e28e8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scripts/Digital signature analyzer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digital signature analyzer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2340b303427ab814",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d81a1e15cd6776a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc60836400ea1375",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "62ed3433c3f37458",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#XAML",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c1bd9cd6d9d477fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0d51b2eedd464105",
+    "type": "split",
+    "children": [
+      {
+        "id": "95103f19fe81bdd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "760ae6af252846e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "How Tos/Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Git"
+            }
+          },
+          {
+            "id": "a6d0f1d05a2c7d37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "How Tos/Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Git"
+            }
+          },
+          {
+            "id": "8783253fc2f5f106",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3473c38e95e26b3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "How Tos/Git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "946e4dd14e28e8a5",
+  "lastOpenFiles": [
+    "Scripts/Windows must haves.md",
+    "Scripts/Nushell config.md",
+    "How Tos/Creating file hash in shell.md",
+    "How Tos/Collect ETL Trace.md",
+    "How Tos/Change Adobe signing format.md",
+    "Blog Posts/Surviving AI.md",
+    "Knowledge/Docker - Basics, build and deploy.md",
+    "Blog Posts/Publishing an idea.canvas",
+    "How Tos/Chromium/Debug webui.md",
+    "How Tos/Windows Programing/XAML Islands.md",
+    "How Tos/Windows Programing/Get the selected text from the focused window using native Win32 API.md",
+    "How Tos/Windows Programing/Manipulate registry.md",
+    "How Tos/Windows Programing/Messages in windows.md",
+    "Scripts/Digital signature analyzer.md",
+    "Scripts",
+    "How Tos/Chromium/Chromium links.md",
+    "How Tos/Chromium/Enable logging.md",
+    "How Tos/Chromium/Policy registry.md",
+    "How Tos/Chromium/Enable field trial.md",
+    "How Tos/Windows Error Codes.md",
+    "Knowledge/Cppwinrt.md",
+    "Knowledge/Basics of MVVM.md",
+    "Knowledge",
+    "How Tos/Windows Programing",
+    "How Tos/Use Robocopy.md",
+    "How Tos/Set PowerShell profile.md",
+    "How Tos/Chromium.md",
+    "How Tos/Chromium",
+    "How Tos/Use WinDBG.md",
+    "How Tos/Git.md",
+    "Blog Posts/TOC.base",
+    "How Tos",
+    "Blog Posts",
+    "desktop.ini"
+  ]
+}
