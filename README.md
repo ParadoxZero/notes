@@ -1,1 +1,4 @@
-Collection of notes and knowledge base. This is my obsidian vault with collection of how-to's, and other knowledge base for references. 
+# Notes and References
+
+This is a Collection of notes and knowledge base. I use this as my obsidian vault. 
+The knowledge is open source, but closed to contributions as this is my personal sync source.
