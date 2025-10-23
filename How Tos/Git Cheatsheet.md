@@ -1,4 +1,4 @@
-# Git Revert to previous commit
+# Revert to previous commit
 
 ```
 git checkout c5f567~1 -- file1/to/restore file2/to/restore

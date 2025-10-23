@@ -9,6 +9,8 @@ An _image_ is a **snapshot** of your app + its environment.
 
 ## 2. Basic Dockerfile
 
+Dockerfile is a file called `dockerfile` you create wherever in your repo. Then when you run docker commands like `docker build` it uses this file as the reference for what it's supposed to do. The file name needs to be exactly the same for the commands to work.
+
 A simple example for a web app:
 
 ```dockerfile
@@ -35,14 +37,14 @@ CMD ["npm", "run", "start"]
 
 ### Key Dockerfile Concepts
 
-|Instruction|Meaning|
-|---|---|
-|`FROM`|Base image (defines OS + runtime)|
-|`WORKDIR`|Current directory inside container|
-|`COPY`|Copy files from host → container|
-|`RUN`|Execute shell commands while building|
-|`EXPOSE`|Document which port the container listens on|
-|`CMD`|Default runtime command when container starts|
+| Instruction | Meaning                                       |
+| ----------- | --------------------------------------------- |
+| `FROM`      | Base image (defines OS + runtime)             |
+| `WORKDIR`   | Current directory inside container            |
+| `COPY`      | Copy files from host → container              |
+| `RUN`       | Execute shell commands while building         |
+| `EXPOSE`    | Document which port the container listens on  |
+| `CMD`       | Default runtime command when container starts |
 
 ---
 
